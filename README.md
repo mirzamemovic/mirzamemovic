@@ -12,6 +12,7 @@ code. My design background (Figma, UI/UX) means I ship products that work
 ---
 
  **Currently building:** BlueOrbit Careers — a tested full-stack job portal (Flask + SQLite)
+ 
  **Sharpening:** React, full-stack architecture, testing practices
  **Finishing:** BSc Applied Information Technology
 
