@@ -19,4 +19,4 @@ code. My design background (Figma, UI/UX) means I ship products that work
 
 ---
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mirzamemovic/) · mirzamemovic982@gmail.com
+ **Reach me:** [LinkedIn](https://www.linkedin.com/in/mirzamemovic/) · mirzamemovic982@gmail.com
